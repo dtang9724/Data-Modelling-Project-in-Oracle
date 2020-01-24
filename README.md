@@ -1,4 +1,4 @@
-### This repository includes a data architecture project for a fashion manufaturing client that I did in a team of 4.
+### This repository includes a data architecture project that I did in a team of 4 for a fashion manufaturing client.
 ### Read the final project report for a recap of the project.
 Key skills: SQL, Oracle 12c, Data Modelling, ERwin Data Modeller, Visio
 
